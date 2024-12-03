@@ -4,8 +4,8 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="" height="30" width="40" 
-    src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="" height="50" width="50" 
+    src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 
     

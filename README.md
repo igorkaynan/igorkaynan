@@ -1,5 +1,6 @@
 ## Olá eu sou o Igor Kaynan, desenvolvedor front-end e estudante de back-end.
 
+Desde que iniciei um curso técnico em Informática, descobri minha paixão pela programação. Tenho experiência no desenvolvimento de sites e no auxílio à prototipação de interfaces, sempre buscando criar soluções funcionais e atraentes. Meu foco está no desenvolvimento, com conhecimentos em WordPress, HTML, CSS, PHP e JavaScript, além de estar aprofundando minhas habilidades no Back-End.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

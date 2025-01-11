@@ -20,15 +20,29 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
  
   ##
 <div style="display: flex; flex-direction: row; gap: 15px; align-items: center; justify-content: center;">
-  <a href="mailto:kaynannerd@gmail.com" style="text-decoration: none;">
-    <div>
+
+  <!-- Outlook -->
+  <a href="mailto:igor_kaynan@hotmail.com" target="_blank" style="text-decoration: none;">
+    <div style="width: 60px; height: 60px; border-radius: 50%; background-color: #0078D4; display: flex; align-items: center; justify-content: center;">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" style="width: 30px; height: 30px;">
+    </div>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:kaynannerd@gmail.com" style="text-decoration: none;">
+    <div style="width: 60px; height: 60px; border-radius: 50%; background-color: #D14836; display: flex; align-items: center; justify-content: center;">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="width: 30px; height: 30px;">
+    </div>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/igor-kaynan-983155320/" target="_blank" style="text-decoration: none;">
+    <div style="width: 60px; height: 60px; border-radius: 50%; background-color: #0A66C2; display: flex; align-items: center; justify-content: center;">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" style="width: 30px; height: 30px;">
     </div>
   </a>
-</div>
 
+</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">

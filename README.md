@@ -34,13 +34,14 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
   <a href="mailto:kaynannerd@gmail.com" style="text-decoration: none;">
     <div>
       <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="width: 30px; height: 30px;">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" style="width: 30px; height: 30px;">
     </div>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/igor-kaynan-983155320/" target="_blank" style="text-decoration: none;">
     <div style="width: 60px; height: 60px; border-radius: 50%; background-color: #0A66C2; display: flex; align-items: center; justify-content: center;">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" style="width: 30px; height: 30px;">
+      
     </div>
   </a>
 

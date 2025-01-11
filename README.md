@@ -17,6 +17,25 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
   <img align="center" alt="Igor-Vue" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
+
+<div style="display: flex; gap: 15px;">
+    <a href="mailto:seuemail@gmail.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo_2023.png" alt="Gmail" width="30" height="30" />
+    </a>
+    <a href="mailto:seuemail@outlook.com" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Outlook.com_logo_2013.svg" alt="Outlook" width="30" height="30" />
+    </a>
+    <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_%282019%29.svg" alt="LinkedIn" width="30" height="30" />
+    </a>
+</div>
+
+
+
+
+
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: blue)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">

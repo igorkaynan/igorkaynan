@@ -19,8 +19,6 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 
  
   ##
-
-  <!-- Contêiner principal com alinhamento horizontal -->
 <div style="display: flex; flex-direction: row; gap: 15px; align-items: center; justify-content: center;">
   <a href="mailto:kaynannerd@gmail.com" style="text-decoration: none;">
     <div>

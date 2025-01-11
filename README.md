@@ -22,19 +22,19 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 <div style="display: flex; gap: 15px;">
     <!-- Outlook -->
     <a href="mailto:igor_kaynan@hotmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook" width="120" height="30" style="filter: grayscale(100%);" />
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook" width="120" height="30"/>
     </a>
       <!-- Gmail -->
     <a href="kaynannerd@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="80" height="30" style="filter: grayscale(100%);" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="80" height="30"/>
     </a>
     <!-- LinkedIn -->
     <a href="in/igor-kaynan-983155320" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="30" style="filter: grayscale(100%);" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="80" height="30"/>
     </a>
     <!-- Behance -->
     <a href="kaynannerd@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" width="80" height="30" style="filter: grayscale(100%);" />
+        <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" width="80" height="30" />
     </a>
 </div>
 

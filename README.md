@@ -21,7 +21,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 <div style="display: flex; gap: 15px;">
     <!-- Gmail -->
     <a href="mailto:seuemail@gmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo_2023.png" alt="Gmail" width="30" height="30" style="filter: grayscale(100%);" />
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="30" height="30" style="filter: grayscale(100%);" />
     </a>
     <!-- Outlook -->
     <a href="mailto:igor_kaynan@hotmail.com" target="_blank">

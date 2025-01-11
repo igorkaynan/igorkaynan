@@ -19,7 +19,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 
  
   ##
-<div style="display: flex; gap: 10px; align-items: center; justify-content: center;">
+
 
   <!-- Outlook -->
   <a href="mailto:igor_kaynan@hotmail.com" target="_blank" style="text-decoration: none;">
@@ -42,7 +42,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
     </div>
   </a>
 
-</div>
+
 
 
 

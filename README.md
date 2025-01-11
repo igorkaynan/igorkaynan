@@ -29,7 +29,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
     </a>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_%282019%29.svg" alt="LinkedIn" width="30" height="30" style="filter: grayscale(100%);" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="30" height="30" style="filter: grayscale(100%);" />
     </a>
     <!-- Behance -->
     <a href="https://www.behance.net/seuperfil" target="_blank">

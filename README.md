@@ -17,18 +17,23 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
   <img align="center" alt="Igor-Vue" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
-#
+##
 <div style="display: flex; gap: 15px;">
     <a href="mailto:seuemail@gmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo_2023.png" alt="Gmail" width="30" height="30" /](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo_2023.png" alt="Gmail" width="30" height="30" style="filter: grayscale(100%);"/>
     </a>
     <a href="mailto:igor_kaynan@hotmail.com" target="_blank">
-      <https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Microsoft_Outlook_Logo_2021.png" alt="Microsoft Outlook" width="30" height="30" style="filter: grayscale(100%);"/>
     </a>
     <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_%282019%29.svg" alt="LinkedIn" width="30" height="30" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_%282019%29.svg" alt="LinkedIn" width="30" height="30" style="filter: grayscale(100%);"/>
+    </a>
+    <a href="https://www.behance.net/seuperfil" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Behance_logo_2013.svg" alt="Behance" width="30" height="30" style="filter: grayscale(100%);"/>
     </a>
 </div>
+
+
 
 
 

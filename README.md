@@ -19,13 +19,16 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 
  
   ##
- <a href="mailto:igor_kaynan@hotmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+<a href="mailto:igor_kaynan@hotmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" style="border-radius: 50%;">
 </a>
 <a href="mailto:kaynannerd@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie um e-mail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie um e-mail" style="border-radius: 50%;">
 </a>
-  <a href="https://www.linkedin.com/in/igor-kaynan-983155320/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/igor-kaynan-983155320/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="border-radius: 50%;">
+</a>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">

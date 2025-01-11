@@ -20,13 +20,13 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 ##
 <br>
 <div style="display: flex; gap: 15px;">
-    <!-- Gmail -->
-    <a href="kaynannerd@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="80" height="30" style="filter: grayscale(100%);" />
-    </a>
     <!-- Outlook -->
     <a href="mailto:igor_kaynan@hotmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook" width="80" height="30" style="filter: grayscale(100%);" />
+    </a>
+      <!-- Gmail -->
+    <a href="kaynannerd@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="80" height="30" style="filter: grayscale(100%);" />
     </a>
     <!-- LinkedIn -->
     <a href="in/igor-kaynan-983155320" target="_blank">

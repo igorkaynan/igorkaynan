@@ -25,7 +25,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 
   <!-- Outlook -->
   <a href="mailto:igor_kaynan@hotmail.com" target="_blank" style="text-decoration: none;">
-    <div style="width: 60px; height: 60px; border-radius: 50%; background-color: #0078D4; display: flex; align-items: center; justify-content: center;">
+    <div style="width: 60px; height: 60px; border-radius: 50%; background-color: #0078D4;">
       <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" style="width: 30px; height: 30px;">
     </div>
   </a>

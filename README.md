@@ -22,7 +22,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 <div style="display: flex; gap: 15px;">
     <!-- Outlook -->
     <a href="mailto:igor_kaynan@hotmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook" width="80" height="30" style="filter: grayscale(100%);" />
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook" width="80" height="60" style="filter: grayscale(100%);" />
     </a>
       <!-- Gmail -->
     <a href="kaynannerd@gmail.com" target="_blank">

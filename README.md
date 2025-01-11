@@ -18,6 +18,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 </div>
 
 ##
+##
 <div style="display: flex; gap: 15px;">
     <!-- Gmail -->
     <a href="mailto:seuemail@gmail.com" target="_blank">

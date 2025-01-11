@@ -32,7 +32,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 
   <!-- Gmail -->
   <a href="mailto:kaynannerd@gmail.com" style="text-decoration: none;">
-    <div style="width: 60px; height: 60px; border-radius: 50%; background-color: #D14836; display: flex; align-items: center; justify-content: center;">
+    <div>
       <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" style="width: 30px; height: 30px;">
     </div>
   </a>

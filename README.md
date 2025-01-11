@@ -21,12 +21,12 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
   ##
 <!-- Outlook -->
 <a href="mailto:igor_kaynan@hotmail.com" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" style="width: 20px; height: 20px; border-radius: 50%; background-color: #0078D4; padding: 10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" style="width: 40px; height: 40px; border-radius: 50%; background-color: #0078D4; padding: 10px;">
 </a>
 
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/igor-kaynan-983155320/" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" style="width: 30px; height: 20px; border-radius: 50%; background-color: #0A66C2; padding: 10px;">
+  <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" style="width: 40px; height: 40px; border-radius: 50%; background-color: #0A66C2; padding: 10px;">
 </a>
 
 

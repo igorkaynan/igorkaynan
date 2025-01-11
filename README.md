@@ -19,17 +19,21 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 
 ##
 <div style="display: flex; gap: 15px;">
+    <!-- Gmail -->
     <a href="mailto:seuemail@gmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo_2023.png" alt="Gmail" width="30" height="30" style="filter: grayscale(100%);"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo_2023.png" alt="Gmail" width="30" height="30" style="filter: grayscale(100%);" />
     </a>
+    <!-- Outlook -->
     <a href="mailto:igor_kaynan@hotmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Microsoft_Outlook_Logo_2021.png" alt="Microsoft Outlook" width="30" height="30" style="filter: grayscale(100%);"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Microsoft_Outlook_Logo_2021.png" alt="Microsoft Outlook" width="30" height="30" style="filter: grayscale(100%);" />
     </a>
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_%282019%29.svg" alt="LinkedIn" width="30" height="30" style="filter: grayscale(100%);"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_%282019%29.svg" alt="LinkedIn" width="30" height="30" style="filter: grayscale(100%);" />
     </a>
+    <!-- Behance -->
     <a href="https://www.behance.net/seuperfil" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Behance_logo_2013.svg" alt="Behance" width="30" height="30" style="filter: grayscale(100%);"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Behance_logo.svg" alt="Behance" width="30" height="30" style="filter: grayscale(100%);" />
     </a>
 </div>
 

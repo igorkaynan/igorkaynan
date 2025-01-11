@@ -25,7 +25,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
     </a>
     <!-- Outlook -->
     <a href="mailto:igor_kaynan@hotmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Microsoft_Outlook_Logo_2021.png" alt="Microsoft Outlook" width="30" height="30" style="filter: grayscale(100%);" />
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Microsoft Outlook" width="30" height="30" style="filter: grayscale(100%);" />
     </a>
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/seulinkedin/" target="_blank">

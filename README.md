@@ -33,7 +33,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
     </a>
     <!-- Behance -->
     <a href="https://www.behance.net/seuperfil" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Behance_logo.svg" alt="Behance" width="30" height="30" style="filter: grayscale(100%);" />
+        <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" width="30" height="30" style="filter: grayscale(100%);" />
     </a>
 </div>
 

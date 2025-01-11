@@ -17,7 +17,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
   <img align="center" alt="Igor-Vue" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
-
+#
 <div style="display: flex; gap: 15px;">
     <a href="mailto:seuemail@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Gmail_Logo_2023.png" alt="Gmail" width="30" height="30" />

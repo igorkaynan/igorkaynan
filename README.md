@@ -23,7 +23,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
   <a href="mailto:kaynannerd@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="in/igor-kaynan-983155320" target="_blank">
+  <a href="https://www.linkedin.com/in/igor-kaynan-983155320" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:igor_kaynan@hotmail.com" target="_blank">

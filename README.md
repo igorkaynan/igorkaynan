@@ -18,7 +18,7 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 </div>
 
 ##
-<br>
+
 <div>
   <a href="mailto:kaynannerd@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">

@@ -19,13 +19,19 @@ Desde que iniciei um curso técnico em Informática, descobri minha paixão pela
 
 ##
 
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
+
 <div>
   <a href="mailto:kaynannerd@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/igor-kaynan" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+  </a>
   <a href="https://outlook.live.com" target="_blank">
     <img src="https://img.shields.io/badge/-Outlook-%23007B5E?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>

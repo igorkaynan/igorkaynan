@@ -1,4 +1,4 @@
-## Olá, eu sou o Igor Kaynan, desenvolvedor full stack.
+## Olá, eu sou o Igor Kaynan, Desenvolvedor Full Stack.
 
 Atualmente curso Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi, onde fortaleci minha paixão por programação. Tenho experiência no desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end, buscando criar soluções funcionais, eficientes e bem estruturadas.
 

@@ -2,7 +2,7 @@
 
 Atualmente curso Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi, onde fortaleci minha paixão por programação. Tenho experiência no desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end, buscando criar soluções funcionais, eficientes e bem estruturadas.
 
-Possuo conhecimentos em JavaScript (Node.js), PHP, Python e bancos de dados como MySQL e MongoDB. Estou em constante evolução, aprimorando minhas habilidades no desenvolvimento back-end e na construção de sistemas.
+Possuo conhecimentos em JavaScript (Node.js), PHP, Python, C# com ASP.NET Core e bancos de dados como MySQL e MongoDB. Estou em constante evolução, aprimorando minhas habilidades no desenvolvimento back-end e na construção de sistemas escaláveis e de alta performance.
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> 

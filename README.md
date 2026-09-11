@@ -34,8 +34,7 @@ Estou em constante evolução, buscando aprimorar minhas habilidades em desenvol
 <!-- DevOps -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/> 
+<!-- IA -->
   <img src="https://cdn.simpleicons.org/n8n/ea4b71" width="40"/> 
 </p>
 

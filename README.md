@@ -1,8 +1,12 @@
 ## Olá, eu sou o Igor Kaynan, Desenvolvedor Full Stack.
 
-Atualmente curso Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi, onde fortaleci minha paixão por programação. Tenho experiência no desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end, buscando criar soluções funcionais, eficientes e bem estruturadas.
+Atualmente curso Análise e Desenvolvimento de Sistemas pela Anhembi Morumbi, onde fortaleci minha paixão por programação e tecnologia. Tenho experiência no desenvolvimento de aplicações web, atuando tanto no front-end quanto no back-end, sempre buscando criar soluções funcionais, eficientes e bem estruturadas.
 
-Possuo conhecimentos em JavaScript (Node.js), PHP, Python, C# com ASP.NET Core e bancos de dados como MySQL e MongoDB. Estou em constante evolução, aprimorando minhas habilidades no desenvolvimento back-end e na construção de sistemas escaláveis e de alta performance.
+Tenho conhecimentos em desenvolvimento Full Stack, com maior foco em back-end utilizando Java com Spring Boot, Node.js e C# com ASP.NET Core, além de experiência com APIs REST e bancos de dados relacionais e NoSQL.
+
+Também venho ampliando meus conhecimentos em Engenharia de Dados, trabalhando com Python, SQL, PySpark, processos ETL/ELT e construção de pipelines de dados.
+
+Estou em constante evolução, buscando aprimorar minhas habilidades em desenvolvimento de software e Engenharia de Dados, com foco na construção de soluções escaláveis, confiáveis e orientadas a dados.
 
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> 
